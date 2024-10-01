@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "role": " Software Specialist ",
+      "organisation": "Cubic Logics",
+      "startDate": "June, 2023",
+      "endDate": "Sept, 2023",
+      "location": "Abohar",
+      "experiences": [
+        "Worked on Company Site",
+        "Worked with Cubic Logics Team"
+      ],
+      "imageSrc": "company/Cubic.png"
+    },
+    {
+      "id": 2,
+      "role": "Computer Operator",
+      "organisation": "Hitachi",
+      "startDate": "July, 2019",
+      "endDate": "May, 2021",
+      "location": "Abohar",
+      "experiences": [
+        "Worked on Windows 10 MS-Excel",
+        "MS-powerpoint,MS-Word",
+        "Worked on Hitachi Site"
+      ],
+      "imageSrc": "company/Hitachi.png"
+    },
+    {
+      "id": 3,
+      "role": "Freelancer at Tribe",
+      "organisation": "Tribe",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
+      "location": "Singapore",
+      "experiences": [
+        "Worked on Freelance Projects",
+        "Helped to create solutions for company"
+      ],
+      "imageSrc": "company/tribe.png"
+    }
+  ]
